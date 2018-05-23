@@ -1,0 +1,5 @@
+﻿  VUBE.CPP
+c:\users\emso0805\documents\visual studio 2015\projects\robinassaultvube\robinassaultvube\vube.cpp(79): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: see declaration of 'itoa'
+  ROBINASSAULTVUBE.vcxproj -> C:\Users\emso0805\documents\visual studio 2015\Projects\ROBINASSAULTVUBE\Debug\ROBINASSAULTVUBE.exe
+  ROBINASSAULTVUBE.vcxproj -> C:\Users\emso0805\documents\visual studio 2015\Projects\ROBINASSAULTVUBE\Debug\ROBINASSAULTVUBE.pdb (Full PDB)
